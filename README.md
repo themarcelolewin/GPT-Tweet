@@ -1,3 +1,4 @@
+![Creative Spark AI - Logo - Rectangle (1280 × 640 px)](https://user-images.githubusercontent.com/55222201/209981245-3a0e6a81-df6e-42a3-bd8b-7caac67c7086.png)
 # GPT-Tweet
 Creates a Twitter Bot that Posts Random AI (Artificial Intelligence) Terms using OpenAI GPT-3.  For more information, check out [Creative Spark AI](https://www.creativespark.ai). Below are the steps I took to get this script completed.
 #
