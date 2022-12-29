@@ -22,4 +22,4 @@ Creates a Twitter Bot that Posts Random AI (Artificial Intelligence) Terms using
     - Send response from GPT-3 to Twitter (as a tweet).
 - **Schedule Daily Task**
     - Use your favorite online service to schedule tasks that run Python scripts.
-    - I'm using "PythonAnywhere.com"
+    - I'm using [Python Anywhere](https://www.pythonanywhere.com)
