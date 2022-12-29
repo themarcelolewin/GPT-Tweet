@@ -1,6 +1,6 @@
 # GPT-Tweet
-Creates a Twitter Bot that Posts Random AI (Artificial Intelligence) Terms using OpenAI GPT-3.  For more information, check out [Creative Spark AI](https://www.creativespark.ai)
-
+Creates a Twitter Bot that Posts Random AI (Artificial Intelligence) Terms using OpenAI GPT-3.  For more information, check out [Creative Spark AI](https://www.creativespark.ai).
+#
 - **Create Web Accounts**
     - Create a developer account in Twitter
     - Create a developer account in Open AI
