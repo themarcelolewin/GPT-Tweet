@@ -1,5 +1,5 @@
 # GPT-Tweet
-Creates a Twitter Bot that Posts Random AI (Artificial Intelligence) Terms using OpenAI GPT-3.  For more information, check out [Creative Spark AI](https://www.creativespark.ai).
+Creates a Twitter Bot that Posts Random AI (Artificial Intelligence) Terms using OpenAI GPT-3.  For more information, check out [Creative Spark AI](https://www.creativespark.ai). Below are the steps I took to get this script completed.
 #
 - **Create Web Accounts**
     - Create a developer account in Twitter
@@ -22,3 +22,4 @@ Creates a Twitter Bot that Posts Random AI (Artificial Intelligence) Terms using
     - Send response from GPT-3 to Twitter (as a tweet).
 - **Schedule Daily Task**
     - Use your favorite online service to schedule tasks that run Python scripts.
+    - I'm using "PythonAnywhere.com"
